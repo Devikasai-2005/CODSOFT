@@ -19,6 +19,9 @@ Build a machine learning model to classify movie genres based on their plot summ
 ## 🚀 How to Run
 1. Upload `train_data.txt` in the notebook directory.
 2. Run `movie_genre_classification.ipynb`
+3. 📦 The dataset is zipped due to GitHub's 25MB size limit.  
+Please extract `train_data.zip` and place `train_data.txt` in the same folder as the notebook before running it.
+
 
 ## 🙌 Output
 > Sample prediction:  
